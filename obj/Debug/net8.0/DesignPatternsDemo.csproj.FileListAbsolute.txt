@@ -1,0 +1,14 @@
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.exe
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.deps.json
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.runtimeconfig.json
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.dll
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.pdb
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.AssemblyInfo.cs
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.dll
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\obj\Debug\net8.0\refint\DesignPatternsDemo.dll
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.pdb
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.genruntimeconfig.cache
+C:\Users\labuser\Desktop\creational_design_patterns\DesignPatternsDemo\obj\Debug\net8.0\ref\DesignPatternsDemo.dll
